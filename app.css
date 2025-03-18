@@ -1,0 +1,3 @@
+.zoom-out {
+    transform: scale(0.8); /* Shrinks the image to 80% of its original size */
+}
